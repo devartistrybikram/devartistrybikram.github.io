@@ -95,3 +95,15 @@ Here are some related projects
 
 ![App Screenshot](https://raw.githubusercontent.com/devartistrybikram/devartistrybikram.github.io/main/Business_Card_Trendz_2.jpg)
 
+## More On My Social Handles
+
+![Logo](https://raw.githubusercontent.com/devartistrybikram/devartistrybikram.github.io/main/pinte.png)[On Pinterest](https://www.pinterest.com/devartistrybikram)
+
+![Logo](https://raw.githubusercontent.com/devartistrybikram/devartistrybikram.github.io/main/fb.png)[On Facebook](https://www.facebook.com/devartistrybikram)
+
+![Logo](https://raw.githubusercontent.com/devartistrybikram/devartistrybikram.github.io/main/insta.png)[On Instagram](https://www.instagram.com/devartistrybikram)
+
+![Logo](https://raw.githubusercontent.com/devartistrybikram/devartistrybikram.github.io/main/linked.png)[On Linkedin](https://www.linkedin.com/in/devartistrybikram)
+
+![Logo](https://raw.githubusercontent.com/devartistrybikram/devartistrybikram.github.io/main/thread.png)[On Threads](https://www.threads.net/devartistrybikram)
+
