@@ -36,6 +36,7 @@ Aspiring web developer with a strong foundation in computer applications, pursui
 
 - **Certificate in Graphics & 3D Animation**  
   *Mopple Institution Of Animation & Design  ||  2021*
+
 ## Technical Skills
 
 - **Design & Development Tools:**  
@@ -52,11 +53,14 @@ Aspiring web developer with a strong foundation in computer applications, pursui
 - Excellent written and verbal communication skills.
 - Highly organized and efficient.
 - Ability to work independently or as part of a team.
-- Proven leadership skills and ability to motivate.## Languages
+- Proven leadership skills and ability to motivate.
+
+## Languages
 
 - Bengali
 - English
 - Hindi
+
 ## Professional Experience
 
 #### - Speedigo Engineering & Technology
