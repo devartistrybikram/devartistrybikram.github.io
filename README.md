@@ -3,11 +3,11 @@
 
 ## Aspiring Web Developer & Graphic Designer
 
-## 🚀 Career Objective
+## Career Objective
 Aspiring web developer with a strong foundation in computer applications, pursuing an MCA from Brainware University, with a BCOM background. Proficient in designing tools Figma, HTML, CSS, JavaScript, and other web frameworks. Seeking an entry-level web development role to apply skills and grow in a dynamic environment.
 
 
-## 🔗 Contact Me
+## Contact Me
 - **Email:** [mondalbikram201@gmail.com](mailto:mondalbikram201@gmail.com)
 - **Phone:** [+918017874363](https://wa.me/+918017874363)
 - **Portfolio:** [devartistrybikram.github.io](https://devartistrybikram.github.io)
@@ -36,7 +36,6 @@ Aspiring web developer with a strong foundation in computer applications, pursui
 
 - **Certificate in Graphics & 3D Animation**  
   *Mopple Institution Of Animation & Design  ||  2021*
-
 ## Technical Skills
 
 - **Design & Development Tools:**  
@@ -58,7 +57,6 @@ Aspiring web developer with a strong foundation in computer applications, pursui
 - Bengali
 - English
 - Hindi
-
 ## Professional Experience
 
 #### - Speedigo Engineering & Technology
@@ -97,7 +95,6 @@ Here are some related projects
 
 ![App Screenshot](https://raw.githubusercontent.com/devartistrybikram/devartistrybikram.github.io/main/Business_Card_Trendz_2.jpg)
 
-## More On My Social Handles
 
 ![Logo](https://raw.githubusercontent.com/devartistrybikram/devartistrybikram.github.io/main/pinte.png)[On Pinterest](https://www.pinterest.com/devartistrybikram)
 
