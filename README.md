@@ -155,12 +155,10 @@ ______
 
 ## Follow Me
 
-| Platform                          | UserID                                                  |
-| --------------------------------- | ------------------------------------------------------- |
-| ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-3.png?raw=true) | On Linkedin [@devartistrybikram](https://www.linkedin.com/in/devartistrybikram) |
-| ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-8.png?raw=true) | On Pinterest [@devartistrybikram](https://www.pinterest.com/devartistrybikram)  |
-| ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-1.png?raw=true) | On Facebook [@devartistrybikram](https://www.facebook.com/devartistrybikram)    |
-| ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-5.png?raw=true) | On Instagram [@devartistrybikram](https://www.instagram.com/devartistrybikram)  |
-| ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-18.png?raw=true) | On Threads [@devartistrybikram](https://www.threads.net/devartistrybikram)      |
+| Platform                          | UserID                                                  | Platform                          | UserID                                                  |
+| --------------------------------- | ------------------------------------------------------- | --------------------------------- | ------------------------------------------------------- |
+| ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-3.png?raw=true)  | On Linkedin [@devartistrybikram](https://www.linkedin.com/in/devartistrybikram) | ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-8.png?raw=true)  | On Pinterest [@devartistrybikram](https://www.pinterest.com/devartistrybikram)  |
+| ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-1.png?raw=true)  | On Facebook [@devartistrybikram](https://www.facebook.com/devartistrybikram)    | ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-5.png?raw=true)  | On Instagram [@devartistrybikram](https://www.instagram.com/devartistrybikram)  |
+| ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-18.png?raw=true) | On Threads [@devartistrybikram](https://www.threads.net/devartistrybikram)      | ![Logo](https://github.com/devartistrybikram/demofiles/blob/main/Social-Icons-16.png?raw=true) | On Behance [@devartistrybikram](https://www.behance.net/devartistrybikram)      |
 
 ______
